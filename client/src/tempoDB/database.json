@@ -1,0 +1,72 @@
+{
+  "client": [
+    {
+      "id": 1,
+      "email": "lschultz@gmail.com",
+      "attr": {
+        "name": "Aubrey Bosco",
+        "phone": "+19247084625",
+        "address": "36452 Nicolette Trafficway Suite 486",
+        "birthdate": "02-04-1981",
+        "height": "5'2",
+        "weight": "65",
+        "gender": "female"
+      },
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "email": "josefa19@reilly.info",
+      "attr": {
+        "name": "Prof. Scotty Carroll",
+        "phone": "(423) 243-8579",
+        "address": "295 Armand Knolls",
+        "birthdate": "12-28-1899",
+        "height": "6'2",
+        "weight": "73",
+        "gender": "male"
+      },
+      "role": "admin"
+    },
+    {
+      "id": 3,
+      "email": "randommail@abc.com",
+      "attr": {
+        "name": "Random",
+        "phone": "1111111",
+        "address": "36452 Nicolette Trafficway Suite 486",
+        "birthdate": "02-04-1981",
+        "height": "5'2",
+        "weight": "65",
+        "gender": "female"
+      },
+      "role": "user"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "name": "Japsiee Japs",
+      "message": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea, molestias optio modi suscipit soluta vel. Culpa, soluta? Reiciendis iusto cumque quasi ullam iste quia ut, voluptatum ad quod facere debitis explicabo perferendis molestias harum assumenda tenetur dolore iure optio. Magnam dolorem nemo dolor cum repellendus, neque harum culpa provident cupiditate!",
+      "date": "2022-01-29"
+    },
+    {
+      "id": 2,
+      "name": "Mark Lester Moreno",
+      "message": "Facere debitis explicabo perferendis molestias harum assumenda tenetur dolore iure optio. Magnam dolorem nemo dolor cum repellendus, neque harum culpa provident cupiditate!",
+      "date": "2022-11-28"
+    },
+    {
+      "id": 3,
+      "name": "Dantes Yobel",
+      "message": "Hi! I am from Barangay Cupang West",
+      "date": "2022-01-05"
+    },
+    {
+      "id": 4,
+      "name": "Carl Joseph Carlos",
+      "message": "Hello! Good day sir, I am carl joseph carlos who is currently",
+      "date": "2020-05-24"
+    }
+  ]
+}
